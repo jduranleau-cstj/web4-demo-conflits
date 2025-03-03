@@ -1,5 +1,12 @@
+body {
+    margin: 0px;
+}
+
 h1 {
     text-align: center;
+    background-color: darkmagenta;
+    padding: 10px 0px;
+    margin-top: 0px;
 }
 
 .conteneur {
